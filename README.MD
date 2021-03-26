@@ -17,3 +17,7 @@
 4. Assim que aparecer a url, basta abrir no navegador
 5. Para encerrar o projeto, pressione Enter no terminal
 
+## Vídeos
+
+[1° Entrega Parcial - Protótipo navegável](https://youtu.be/eV_Qeq1f3rg)
+
